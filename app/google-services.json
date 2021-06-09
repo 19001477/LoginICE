@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719634986348",
+    "firebase_url": "https://login-ice-default-rtdb.firebaseio.com",
+    "project_id": "login-ice",
+    "storage_bucket": "login-ice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719634986348:android:5472fa8ab2e14e946b2f49",
+        "android_client_info": {
+          "package_name": "com.example.loginice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719634986348-rngeqcp5uvbvqqkh7hre01coecuokh4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kUBywEXhlylUYAgMaFh_6TT5uRcUw8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719634986348-rngeqcp5uvbvqqkh7hre01coecuokh4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
